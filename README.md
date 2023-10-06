@@ -20,13 +20,8 @@ Here are some ideas to get you started:
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green](https://github-readme-stats.vercel.app/api?username=jaavii004&theme=blue-green)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaavii004&theme=blue-green"/>
 </p>
-
-## Pc Specs:
-![MacBook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=for-the-badge&logo=apple&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-Core_i7_12th-12700KC5?style=for-the-badge&logo=intel&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Operating systems :
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
