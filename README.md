@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-h1 align="center">Hi 👋, I'm Álvaro Escartí </h1>
-<h3 align="center">A passionate frontend developer from Spain.</h3>
+<h1 align="center">Hi 👋, I'm Javier Puertas </h1>
+<h3 align="center">A passionate frontend developer.</h3>
 
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=escartii&theme=blue-green](https://github-readme-stats.vercel.app/api?username=jaavii004&theme=blue-green)"/>
 </p>
 
 ## Pc Specs:
