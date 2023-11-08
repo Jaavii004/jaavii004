@@ -1,6 +1,6 @@
 
 <img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
-<!--
+
 **Jaavii004/jaavii004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Javier Puertas </h1>
 <h1 align="center">Hi 👋, I'm Javier Puertas </h1>
 <h1 align="center">Hi 👋, I'm Javier Puertas </h1>
