@@ -36,7 +36,7 @@
 
 ### Things I Like
 [![My Skills](https://skillicons.dev/icons?i=mysql,nginx,docker,firebase,androidstudio,github,gitlab,stackoverflow,,,)](https://skillicons.dev)
-
+<!--
 ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
@@ -47,7 +47,7 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![VirtualBOX](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-
+-->
 
 
 
