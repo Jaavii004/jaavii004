@@ -12,14 +12,14 @@
 </p>
 
 ## Operating systems :
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)
 
 <!--![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 -->
 
 ### Languages ​​I'm learning: 
-[![My Skills](https://skillicons.dev/icons?i=bash,arduino,java,html,css,php,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,arduino,java,html,css,php,py)](https://skillicons.dev)
 <!--
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
@@ -27,7 +27,7 @@
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
 -->
 ### Favorite IDE'S:
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,)](https://skillicons.dev)
 <!--
 ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![IntelIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whit)
@@ -35,6 +35,8 @@
 -->
 
 ### Things I Like
+[![My Skills](https://skillicons.dev/icons?i=mysql,nginx,docker,firebase,androidstudio,github,gitlab,stackoverflow,,,)](https://skillicons.dev)
+
 ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
