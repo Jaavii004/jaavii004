@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Operating systems :
-[![My Skills](https://skillicons.dev/icons?i=Linux,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
