@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 ## Operating systems :
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
 
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+<!--![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+-->
 
 ### Languages ​​I'm learning: 
+[![My Skills](https://skillicons.dev/icons?i=bash,arduino,java,html,css,php,py&theme=light)](https://skillicons.dev)
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit)](https://www.w3schools.com/css)
