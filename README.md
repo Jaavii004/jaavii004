@@ -1,4 +1,4 @@
-240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png
+
 <img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
 <!--
 **Jaavii004/jaavii004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
