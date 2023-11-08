@@ -37,10 +37,12 @@ Here are some ideas to get you started:
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
 -->
 ### Favorite IDE'S:
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,&theme=light)](https://skillicons.dev)
+<!--
 ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![IntelIJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=whit)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-
+-->
 
 ### Things I Like
 ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
