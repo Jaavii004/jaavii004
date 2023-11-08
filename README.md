@@ -1,5 +1,3 @@
-
-
 <!--
 **Jaavii004/jaavii004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Operating systems :
+[![My Skills](https://skillicons.dev/icons?i=Linux,windows&theme=light)](https://skillicons.dev)
 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
