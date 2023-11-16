@@ -57,18 +57,16 @@
 </p>
 
 <h3 align="center">Inspirational phrases in Spanish</h3>
-<p align="center">
-  "El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."
-  "El software está comiendo el mundo."
-  "La programación no es solo sobre código, también se trata de solucionar problemas."
-  "Es más fácil cambiar la especificación para adaptarse al programa que cambiar el programa para adaptarse a la especificación."
-  "La programación es como escribir un libro; a veces, incluso si tienes toda la estructura, necesitas reescribir algunos capítulos."
-  "El mejor código es aquel que ni siquiera parece que fue escrito por un humano."
-  "Cada programador es un optimista incurable, absolutamente seguro de que si solo escribiera un poco más de código, todo sería perfecto."
-  "El arte de programar consiste en organizar y dominar la complejidad."
-  "El código limpio siempre parece que fue escrito por alguien a quien le importa."
-  "Programar es pensar, no escribir código."
-</p>
+<p align="center">"El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."</p>
+<p align="center">"El software está comiendo el mundo."</p>
+<p align="center">"La programación no es solo sobre código, también se trata de solucionar problemas."</p>
+<p align="center">"Es más fácil cambiar la especificación para adaptarse al programa que cambiar el programa para adaptarse a la especificación."</p>
+<p align="center">"La programación es como escribir un libro; a veces, incluso si tienes toda la estructura, necesitas reescribir algunos capítulos."</p>
+<p align="center">"El mejor código es aquel que ni siquiera parece que fue escrito por un humano."</p>
+<p align="center">"Cada programador es un optimista incurable, absolutamente seguro de que si solo escribiera un poco más de código, todo sería perfecto."</p>
+<p align="center">"El arte de programar consiste en organizar y dominar la complejidad."</p>
+<p align="center">"El código limpio siempre parece que fue escrito por alguien a quien le importa."</p>
+<p align="center">"Programar es pensar, no escribir código."</p>
 
 
 
