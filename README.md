@@ -56,3 +56,29 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaavii004&theme=blue-green"/>
 </p>
 
+<h3 align="center">Inspirational phrases in Spanish</h3>
+<p align="center">
+  "El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."
+  
+  "El software está comiendo el mundo."
+  
+  "La programación no es solo sobre código, también se trata de solucionar problemas."
+  
+  "Es más fácil cambiar la especificación para adaptarse al programa que cambiar el programa para adaptarse a la especificación."
+  
+  "La programación es como escribir un libro; a veces, incluso si tienes toda la estructura, necesitas reescribir algunos capítulos."
+  
+  "El mejor código es aquel que ni siquiera parece que fue escrito por un humano."
+  
+  "Cada programador es un optimista incurable, absolutamente seguro de que si solo escribiera un poco más de código, todo sería perfecto."
+  
+  "El arte de programar consiste en organizar y dominar la complejidad."
+  
+  "El código limpio siempre parece que fue escrito por alguien a quien le importa."
+  
+  "Programar es pensar, no escribir código."
+  
+</p>
+
+
+
