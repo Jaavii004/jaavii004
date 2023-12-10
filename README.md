@@ -35,7 +35,7 @@
 -->
 
 ### Things I Like
-[![My Skills](https://skillicons.dev/icons?i=mysql,nginx,docker,firebase,androidstudio,github,gitlab,stackoverflow,,,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,nginx,docker,firebase,androidstudio,github,gitlab,stackoverflow)](https://skillicons.dev)
 <!--
 ![MySQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
