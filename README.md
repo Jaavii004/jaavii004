@@ -56,14 +56,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaavii004&theme=blue-green"/>
 </p>
 
-<p>El código es como el humor. Cuando tienes que explicarlo, no es tan bueno."</p>
+<p>El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.</p>
 <h3 align="center">Frases inspiradoras:</h3>
-<p>"El software está comiendo el mundo."</p>
-<p>"La programación no es solo sobre código, también se trata de solucionar problemas."</p>
-<p>"Es más fácil cambiar la especificación para adaptarse al programa que cambiar el programa para adaptarse a la especificación."</p>
-<p>"La programación es como escribir un libro; a veces, incluso si tienes toda la estructura, necesitas reescribir algunos capítulos."</p>
-<p>"El mejor código es aquel que ni siquiera parece que fue escrito por un humano."</p>
-<p>"Cada programador es un optimista incurable, absolutamente seguro de que si solo escribiera un poco más de código, todo sería perfecto."</p>
-<p>"El arte de programar consiste en organizar y dominar la complejidad."</p>
-<p>"El código limpio siempre parece que fue escrito por alguien a quien le importa."</p>
-<p>"Programar es pensar, no escribir código."</p>
+<p>El software está comiendo el mundo.</p>
+<p>La programación no es solo sobre código, también se trata de solucionar problemas.</p>
+<p>Es más fácil cambiar la especificación para adaptarse al programa que cambiar el programa para adaptarse a la especificación.</p>
+<p>La programación es como escribir un libro; a veces, incluso si tienes toda la estructura, necesitas reescribir algunos capítulos.</p>
+<p>El mejor código es aquel que ni siquiera parece que fue escrito por un humano.</p>
+<p>Cada programador es un optimista incurable, absolutamente seguro de que si solo escribiera un poco más de código, todo sería perfecto.</p>
+<p>El arte de programar consiste en organizar y dominar la complejidad.</p>
+<p>El código limpio siempre parece que fue escrito por alguien a quien le importa.</p>
+<p>Programar es pensar, no escribir código.</p>
