@@ -4,21 +4,21 @@
 
 
 <h1 align="center">Hola 👋, soy Javier Puertas </h1>
-<h3 align="center">Un apasionado de Bash.</h3>
+<h3 align="center">Un apasionado programador de Bash.</h3>
 
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaavii004&theme=blue-green"/>
 </p>
 
-## Operating systems :
+## Systemas operativos que me gustan :
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi)](https://skillicons.dev)
 
 <!--![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 -->
 
-### Languages ​​I'm learning: 
+### Languages que se o estoy aprendiendo: 
 [![My Skills](https://skillicons.dev/icons?i=bash,arduino,java,html,css,php,py)](https://skillicons.dev)
 <!--
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
