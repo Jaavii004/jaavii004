@@ -56,7 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaavii004&theme=blue-green"/>
 </p>
 
-<p>El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.</p>
 <h3 align="center">Frases inspiradoras:</h3>
 <p>El software está comiendo el mundo.</p>
 <p>La programación no es solo sobre código, también se trata de solucionar problemas.</p>
@@ -67,3 +66,4 @@
 <p>El arte de programar consiste en organizar y dominar la complejidad.</p>
 <p>El código limpio siempre parece que fue escrito por alguien a quien le importa.</p>
 <p>Programar es pensar, no escribir código.</p>
+<p>El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.</p>
