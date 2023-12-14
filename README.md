@@ -1,10 +1,10 @@
 
-<img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
+<img src="./encabezado.png"/>
 
 
 
-<h1 align="center">Hi 👋, I'm Javier Puertas </h1>
-<h3 align="center">A passionate Bash programmer.</h3>
+<h1 align="center">Hola 👋, soy Javier Puertas </h1>
+<h3 align="center">Un apasionado de Bash.</h3>
 
 <br>
 <p align="center">
