@@ -26,7 +26,7 @@
 [![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit)](https://www.w3schools.com/css)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://docs.microsoft.com/es-es/powershell/)
 -->
-## IDE'S que uso:
+## IDE'S favoritas:
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,)](https://skillicons.dev)
 <!--
 ![Visual](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
