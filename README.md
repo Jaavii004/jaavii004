@@ -6,6 +6,14 @@
 <h1 align="center">Hola 👋, soy Javier Puertas </h1>
 <h3 align="center">Un apasionado programador de Bash.</h3>
 
+¡Bienvenido a mi rincón de código! 👨‍💻 Soy un estudiante de informática cursando el Ciclo Superior de Desarrollo de Aplicaciones Web (DAW). Me apasiona explorar el vasto mundo de la programación y construir cosas geniales.
+
+## Acerca de mí
+
+- 🎓 Actualmente estoy estudiando en [nombre de tu instituto/escuela].
+- 💻 Me encanta programar y explorar nuevas tecnologías.
+- 🌐 Siempre estoy buscando aprender algo nuevo y mejorar mis habilidades.
+- 🚀 ¡Apasionado por el desarrollo web y la creación de aplicaciones impactantes!
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaavii004&theme=blue-green"/>
