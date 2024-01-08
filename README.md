@@ -1,13 +1,8 @@
-
 <img src="./encabezado.png"/>
-
-
 
 <h1 align="center">Hola 👋, soy Javier Puertas </h1>
 
-¡Bienvenido a mi rincón de código! 👨‍💻 Soy un estudiante de informática cursando el Ciclo Superior de Desarrollo de Aplicaciones Web (DAW). Me apasiona explorar el vasto mundo de la programación y construir cosas geniales.
-
-Un apasionado programador de Bash.
+¡Bienvenido a mi rincón de código! 👨‍💻 Soy un estudiante de informática cursando el Ciclo Superior de Desarrollo de Aplicaciones Web (DAW). Me apasiona explorar el vasto mundo de la programación , construir cosas geniales y  programar en Bash.
 
 ## Acerca de mí
 
