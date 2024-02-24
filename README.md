@@ -72,6 +72,10 @@
 <p>Programar es pensar, no escribir código.</p>
 <p>El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.</p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaavii004&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Jaavii004" /></p>
+
+https://github-readme-streak-stats.herokuapp.com/?user=jaavii004&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D
+
 
 <!-- Copy-paste in your Readme.md file -->
 
