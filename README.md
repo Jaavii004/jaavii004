@@ -72,9 +72,13 @@
 <p>Programar es pensar, no escribir código.</p>
 <p>El código es como el humor. Cuando tienes que explicarlo, no es tan bueno.</p>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jaavii004&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun)](https://git.io/streak-stats)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaavii004&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Jaavii004" /></p>
 
-https://github-readme-streak-stats.herokuapp.com/?user=jaavii004&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D
+
 
 
 <!-- Copy-paste in your Readme.md file -->
